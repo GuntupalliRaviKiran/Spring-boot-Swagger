@@ -1,0 +1,12 @@
+git clone https://github.com/GuntupalliRaviKiran/Spring-boot-Swagger.git
+git status
+cd Spring-boot-Swagger/
+git branch alpha
+git status --> to check where you 
+git branch --list --> alpha,Master
+git checkout alpha
+git checkout -b beta
+git branch
+git checkout alpha
+
+
